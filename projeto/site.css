@@ -1,0 +1,63 @@
+main h1 {
+    padding: 25px;
+    background-color: rgb(133, 25, 68);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+blockquote, aside, footer {
+    padding: 20px;
+}
+
+main a {
+    color: #851944;
+}
+
+h2 {
+    font-size: 16px;    
+}
+
+h1, h2 {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color: #F2FFFC;
+    line-height: 1.5;
+}
+
+blockquote {
+    padding: 20px;
+    background-color: #D9E5E3;
+}
+
+aside {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+    text-align: center;
+}
+
+aside a {
+    color: inherit;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    color: #F2FFFC;
+}
+
+nav a {
+    color: #F2FFFC;
+}
+
+main div {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
